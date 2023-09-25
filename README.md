@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TejasMahajan02
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking for a entry level job in Data Analysis
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking for a entry level job in Data Analysis or Python Developer
 - 📫 How to reach me tejasmahajan811@gmail.com
 
 <!---
